@@ -187,5 +187,6 @@ Propósito
   * Identificação: Ao associar o Logger com o nome da classe (EchoClient), fica fácil identificar de qual parte do código (ou de qual classe) as mensagens de log estão vindo.
 
 ![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
+![icons8-intellij-idea](https://user-images.githubusercontent.com/76852813/172722224-2df3bb34-d501-4daf-aa6d-af8c18335202.svg)
 
   
