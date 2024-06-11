@@ -185,4 +185,7 @@ Propósito
 
   * Registro de Log: Usar um Logger permite que a aplicação registre mensagens de diferentes níveis de importância (INFO, WARNING, SEVERE, etc.). Isso é útil para depuração, monitoramento, e manutenção da aplicação.
   * Identificação: Ao associar o Logger com o nome da classe (EchoClient), fica fácil identificar de qual parte do código (ou de qual classe) as mensagens de log estão vindo.
+
+![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
+
   
