@@ -2,6 +2,7 @@
 ## Redes de Computadores
 
   Redes de Computadores: Conjunto de computadores conectados entre si que podem trocar informações e compartilhar recursos.
+  
   Protocolo de Comunicação: Conjunto de regras que define como os dados são transmitidos e recebidos em uma rede.
   O protocolo mais comum é o TCP/IP (Transmission Control Protocol/Internet Protocol).
 
